@@ -1,0 +1,114 @@
+.home-main-section{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+.home-main-div{
+  padding: 1% 10% 5%;
+}
+.home-main-nav{
+  margin-bottom: 100px;
+  padding-left: 0;
+}
+.home-main-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding-top: 50px;
+  margin-bottom: 30px;
+}
+.home-main-image{
+  width: 100%;
+  border-radius: 100%;
+}
+.home-main-link{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.home-main-link:hover{
+  color: white;
+}
+.navbar-brand{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8rem;
+}
+.why-trust-us-heading{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-size: 2.5rem;
+}
+.why-trust-us{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 150px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: rgb(238,174,202);
+}
+.why-trust-us-symbol{
+  padding-bottom: 30px;
+}
+.why-trust-us:hover{
+  color: rgba(148,187,233,1);
+}
+.testimonial-section{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  text-align: center;
+
+}
+.testimonial-up{
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.testimonial-down{
+  padding-bottom: 30px;
+  padding-top: 100px;
+}
+.people-profile{
+  width: 50px;
+  border-radius: 100%;
+}
+.press-image{
+  width: 100px;
+}
+.testimonial-heading{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.download-our-app{
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.download-our-app-heading{
+  margin-bottom: 50px;
+}
+.download-our-app-button{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.footer{
+  text-align: center;
+  background-color: rgb(238,174,202);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.testimonial-recognition{
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 1rem;
+}
